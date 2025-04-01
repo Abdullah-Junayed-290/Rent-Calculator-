@@ -52,7 +52,7 @@ Enter total room person living = 3
 
 ### Output:
 ```
-Each person will pay 5000
+Each person will pay 6000
 ```
 
 ## License
